@@ -5,7 +5,7 @@
 :set shiftwidth=4
 :set smarttab
 :set softtabstop=4
-:set mouse=a
+" :set mouse=a
 :set smartcase
 
 inoremap jk <esc>
